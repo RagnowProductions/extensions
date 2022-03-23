@@ -1,10 +1,10 @@
-class Bitwise {
+class RagnowProductions {
   getInfo() {
     return {
-      id: "Bitwise",
-      color1: '#2dc4c4',
-      color2: '#2dc4b3',
-      color3: '#29a395',
+      id: "RagnowProductions",
+      color1: '#00ff97',
+      color2: '#ff8b00',
+      color3: '#00a4ff',
       blocks: [
         {
           opcode: 'bitwiseLeftShift',
@@ -106,4 +106,4 @@ class Bitwise {
   }
 }
 
-Scratch.extensions.register(new Bitwise());
+Scratch.extensions.register(new RagnowProductions());
