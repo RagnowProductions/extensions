@@ -11,7 +11,7 @@ class Fetch {
           arguments: {
             URL: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'https://extensions.turbowarp.org/foundit.txt'
+              defaultValue: 'https://github.com/RagnowProductions/extensions/blob/master/foundit.txt'
             }
           }
         }
